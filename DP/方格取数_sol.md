@@ -8,6 +8,7 @@ f(k,i1,i2)表示两人同时走k步同时第一人在(i1,k-i1),第二人在(i2,k
 状态转移有四种情况
 <img src = "https://github.com/BinderLeee/shuhan_algorithm_problem/blob/main/image/1.png">
 到此还有最后一个问题，如果两个人同时走到同一个格子上，我们只能加一次格子上的数值。这里我们可以直接特判(i1==i2)判断是否在同一个格子上。
+
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
