@@ -7,3 +7,5 @@
 * [单向TSP](DP/DP%20Related/单向TSP.cpp)
 ### Range DP
 * [石子合并](DP/Range%20DP/石子合并_sol.md)
+### Knapsack
+* [劲歌金曲](DP/Knapsack/劲歌金曲_sol.md)
